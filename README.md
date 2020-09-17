@@ -4,3 +4,4 @@ Smart E-Vote App is an Offline application for casting ballots using smart card 
 https://drive.google.com/file/d/1YtXTHyIRwXqd9TavYiYVMtaxtn_t1WXf/view?usp=sharing <br>
 <b>Credits:</b><br> Prof. O.M Olaniyi<br>
 Jigah Favour
+# Contact : +2348136906461
